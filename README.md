@@ -23,16 +23,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Gato dormindo tranquilamente.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Canva
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Através de prompts
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://www.canva.com/design/DAGMLGdF8hE/Bige2mCuxVBYfWk2fF3FYg/edit?utm_content=DAGMLGdF8hE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
